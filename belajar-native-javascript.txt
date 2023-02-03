@@ -3,5 +3,6 @@ BELAJAR JAVASCRIPT NATIVE
 - belajar tutorial javascript di WPU
   *ES6
   *Framework Javascript
+  *Struktur data dasar
 - belajar figma
 - belajar flow
